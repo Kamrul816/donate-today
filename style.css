@@ -104,9 +104,6 @@ h2{
 .div{
     border-radius: 15px;
 }
-/* section{
-    display: flex;
-} */
 .flood-relief{
     padding: 0 75px;
 }
@@ -116,6 +113,30 @@ h2{
 .width-half{
     width: 40%;
     size: 400px;
+}
+.email{
+    text-align: center;
+    background-color: #d65d5d57;
+    margin-top: 30px;
+    margin-bottom: 70px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 40px 0;
+}
+.email-field{
+    color: #AA9F9F;
+    background-color: #D9D9D9;
+    padding: 8px 20px;
+    border: 0;
+    border-radius: 5px 0 0 5px;
+}
+.submit{
+    margin-left: -5px;
+    color: white;
+    background-color: #FF5959;
+    padding: 8px 20px;
+    border: 0;
+    border-radius: 0 5px 5px 0;
 }
 footer h4{
     color: #FF5959;
