@@ -4,6 +4,13 @@ body{
     font-family: 'Montserrat', sans-serif;
     font-family: 'Open Sans', sans-serif;
 }
+.header{
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+}
 h1{
     text-align: center;
     color: white;
@@ -17,19 +24,14 @@ h1{
     width: 700px;
     margin-left: 300px;
     margin-bottom: 30px;
-}.link-button{
+}
+.link-button{
         text-decoration: none;
         color: white;
         background-color: #FF5959;
         padding: 10px 30px;
         border-radius: 5px;
         margin-left: 600px;
-}
-.header{
-    background-image: url(images/donation13.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;display: flex;
 }
 h2{
     text-align: center;
@@ -110,9 +112,10 @@ h2{
 .flood-image{
     display: flex;
 }
-.width-half{
-    width: 40%;
-    size: 400px;
+.half-width img{
+    width: 80%;
+    margin-top: 30px;
+    margin-left: 75px;
 }
 .email{
     text-align: center;
