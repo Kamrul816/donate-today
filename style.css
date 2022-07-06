@@ -57,9 +57,10 @@ h2{
     border-radius: 3px;
 }
 .taka{
-    text-align: center;
-    color: #B3B3B3;
+    color: #b3b3b379;
     margin-top: 50px;
+    margin-left: 615px;
+    border: 0;
 }
 .center{
     margin-left: 400px;
